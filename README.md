@@ -30,7 +30,7 @@ pip install openai obsws-python pyautogui pyperclip pillow
 ```
 
 ### 3. 配置
-记得解压.venv这个压缩包
+记得解压.venv.zip这个压缩包
 首次运行会自动引导填写配置，或在gui里进行编辑：
 
 ```ini
